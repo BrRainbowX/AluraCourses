@@ -1,0 +1,16 @@
+.list-of-categories {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.list-of-categories_items {
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+  div {
+    padding: 0 0.2rem;
+  }
+}
+.list-of-categories_input {
+  width: 30%;
+}
